@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>irb140.obj</file>
+        <file>SOrbitCameraController.qml</file>
+    </qresource>
+</RCC>
